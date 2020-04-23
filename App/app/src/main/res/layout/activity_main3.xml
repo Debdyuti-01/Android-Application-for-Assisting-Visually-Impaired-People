@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity">
+
+    <ImageView
+        android:layout_width="176dp"
+        android:layout_height="198dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="200dp"
+        android:src="@mipmap/ic_launcher_round"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="209dp" />
+
+    <TextView
+        android:layout_width="174dp"
+        android:layout_height="42dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="BE MY EYES"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+</RelativeLayout>

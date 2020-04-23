@@ -1,0 +1,8 @@
+fifty
+five hundred
+hundred
+ten
+twenty
+two thousand
+two hundred
+Invalid
