@@ -1,4 +1,4 @@
-A Blind Aid
+# BE MY EYES: A Blind Aid
 It's an Android Application to help Visually impaired people.
 
 ## Features:
